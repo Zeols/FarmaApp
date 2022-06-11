@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4x6nXBQaVvIjVZA49dRLNF1+2CgkcyiHzTcQ5Z8q43U/swhZuuVKbHCylnoRv1d1FYSaGuHVvio4U3/kXPCZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolan\\OneDrive\\Documentos\\Visual Studio 2022\\Proyectos\\FarmaApp\\FarmaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolan\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\rolan\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
